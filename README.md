@@ -23,5 +23,8 @@ git clone git@github.com:thelokys/tests-with-mongodb.git # ssh
 ou
 gh repo clone thelokys/tests-with-mongodb # cli
 ```
+
+Utilize o gerenciador [yarn](https://yarnpkg.com/) para iniciar o projeto. Dentro da pasta execute `yarn install` para baixar as dependências.
+
 ## :rocket: Executando projeto
 
