@@ -9,9 +9,12 @@
   <img alt="Tests" width="26px" src="https://img.icons8.com/pastel-glyph/64/000000/test-tube--v2.png" />
 </h4>
 
+## Sobre
+O ideia desse projeto é para ser como molde na criação de testes no Mongo, aqui você verá um CRUD de usuário com os métodos declarados dentro do arquivo [UserController.ts](src/app/controllers/UserController.ts)
+
 ## :bulb: Instalação
 
-Abaixe o projeto com 
+Abaixe o projeto:
 
 ```shell
 git https://github.com/thelokys/tests-with-mongodb.git # http
@@ -20,5 +23,5 @@ git clone git@github.com:thelokys/tests-with-mongodb.git # ssh
 ou
 gh repo clone thelokys/tests-with-mongodb # cli
 ```
-
+## :rocket: Executando projeto
 
