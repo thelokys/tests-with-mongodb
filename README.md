@@ -9,8 +9,6 @@
   <img alt="Tests" width="26px" src="https://img.icons8.com/pastel-glyph/64/000000/test-tube--v2.png" />
 </h4>
 
-### Uso
-
 ## :bulb: Instalação
 
 Abaixe o projeto com 
