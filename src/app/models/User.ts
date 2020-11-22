@@ -1,11 +1,12 @@
 import { Schema, model, Document } from "mongoose";
 
-export interface UserViewModel extends Document {
+export interface IUserSchema extends Document {
   name: string;
+  email: String;
   age: Number;
-  avatar_url: String;
-  created_at: Date;
-  updated_at: Date;
+  avatar_url?: String;
+  readonly created_at: Date;
+  readonly updated_at: Date;
 }
 
 const UserSchema = new Schema(
@@ -14,8 +15,13 @@ const UserSchema = new Schema(
       type: String,
       required: true,
     },
+    email: {
+      type: String,
+      required: true,
+    },
     age: {
       type: Number,
+      required: true,
     },
     avatar_url: {
       type: String,
@@ -30,4 +36,4 @@ const UserSchema = new Schema(
   },
 );
 
-export default model<UserViewModel>("user", UserSchema);
+export default model<IUserSchema>("user", UserSchema);

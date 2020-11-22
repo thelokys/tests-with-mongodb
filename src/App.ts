@@ -1,10 +1,10 @@
-import express, { Application } from "express";
+import express, { Application, NextFunction } from "express";
 
 import cors from "cors";
 import helmet from "helmet";
 
 import routes from "./routes";
-import "./database";
+import fullUrl from "@middlewares/fullUrl";
 
 class App {
   public server: Application;
@@ -20,6 +20,8 @@ class App {
     this.server.use(express.json());
     this.server.use(helmet());
     this.server.use(cors());
+
+    this.server.use(fullUrl);
   }
 
   private routes(): void {
