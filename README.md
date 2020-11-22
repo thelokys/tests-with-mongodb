@@ -42,6 +42,6 @@ yarn install # YARN
 * [<code><img alt="Mongodb" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" /></code>](https://mongoosejs.com/) Mongoose
 * [<code><img alt="Tests" width="26px" src="https://img.icons8.com/pastel-glyph/64/000000/test-tube--v2.png" /></code>](https://jestjs.io/) Jest
 * [<code><img alt="typescript" width="26px" src="https://img.icons8.com/color/48/000000/typescript.png"></code>](https://www.typescriptlang.org/) Typescript
-
+* [<code><img alt="eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"></code>](https://eslint.org/) EsLint
 
 
