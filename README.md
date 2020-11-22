@@ -35,7 +35,7 @@ yarn install # YARN
  Após a instalação rode o script de `test` com o seu gerenciador de pacotes
 
 
-## Depedências principais
+## Depedências
 
 
 * [<code><img alt="Express" width="30px" src="http://expressjs.com/images/favicon.png" /></code>](http://expressjs.com/) ExpressJS
