@@ -15,7 +15,12 @@
 
 Abaixe o projeto com 
 
-* HTTPS <code>git https://github.com/thelokys/tests-with-mongodb.git</code>
-* SSH <code>git clone git@github.com:thelokys/tests-with-mongodb.git</code>
-* Github CLI <code>gh repo clone thelokys/tests-with-mongodb/code>
+```shell
+git https://github.com/thelokys/tests-with-mongodb.git # http
+ou
+git clone git@github.com:thelokys/tests-with-mongodb.git # ssh
+ou
+gh repo clone thelokys/tests-with-mongodb # cli
+```
+
 
