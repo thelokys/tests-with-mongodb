@@ -32,8 +32,7 @@ yarn install # YARN
 
 ## :rocket: Executando os testes no projeto
 
- Após a instalação rode o script de `test` com o seu gerenciador de pacotes
-
+ Após a instalação rode o script de `test` com o seu gerenciador de pacotes. Os testes terá seus resultado mostrados no terminal.
 
 ## Depedências
 
