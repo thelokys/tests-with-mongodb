@@ -10,7 +10,10 @@
 </h4>
 
 ## Sobre
-O ideia desse projeto é para ser como molde na criação de testes no Mongo, aqui você verá um CRUD de usuário com os métodos declarados dentro do arquivo [UserController.ts](src/app/controllers/UserController.ts)
+O ideia desse projeto é para ser como molde na criação de testes no Mongo, aqui você verá um CRUD de usuário com os métodos declarados dentro do arquivo [UserController.ts](src/app/controllers/UserController.ts).
+
+*Note: O projeto só conseguirá rodar o script de tests, configurado no package.json, outro scripts terá que ser configurado por você mesmo*
+
 
 ## :bulb: Instalação
 
