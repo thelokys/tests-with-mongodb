@@ -6,7 +6,7 @@
 </h4>
 
 ## Sobre
-O ideia desse projeto é para ser como molde na criação de testes no Mongo, aqui você verá um CRUD de usuário com os métodos declarados dentro do arquivo [UserController.ts](src/app/controllers/UserController.ts).
+Esse projeto é um molde na criação de testes no Mongo, aqui você verá um CRUD de usuário para mais detalhes verifique o arquivo [UserController.ts](src/app/controllers/UserController.ts).
 
 > *Note: O projeto contêm os scripts de `dev` e `build` esses scripts não estão configurados 100%, você terá configurá-los sozinho, hoje só está rodando o script de `test`.*
 
