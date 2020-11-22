@@ -38,10 +38,10 @@ yarn install # YARN
 ## Depedências principais
 
 
-[<code><img alt="Express" width="30px" src="http://expressjs.com/images/favicon.png" /></code>](http://expressjs.com/)
-[<code><img alt="Mongodb" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" /></code>](https://mongoosejs.com/)
-[<code><img alt="Tests" width="26px" src="https://img.icons8.com/pastel-glyph/64/000000/test-tube--v2.png" /></code>](https://jestjs.io/)
-[<code><img alt="typescript" width="26px" src="https://img.icons8.com/color/48/000000/typescript.png"></code>](https://www.typescriptlang.org/)
+* [<code><img alt="Express" width="30px" src="http://expressjs.com/images/favicon.png" /></code>](http://expressjs.com/) ExpressJS
+* [<code><img alt="Mongodb" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" /></code>](https://mongoosejs.com/) Mongoose
+* [<code><img alt="Tests" width="26px" src="https://img.icons8.com/pastel-glyph/64/000000/test-tube--v2.png" /></code>](https://jestjs.io/) Jest
+* [<code><img alt="typescript" width="26px" src="https://img.icons8.com/color/48/000000/typescript.png"></code>](https://www.typescriptlang.org/) Typescript
 
 
 
