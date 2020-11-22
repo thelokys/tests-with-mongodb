@@ -1,6 +1,6 @@
 <span align="center">
     <img src="./.github/assets/mongodb.png" alt="MongoDB" height="240"/>
-  <span style="font-size: 40px">+</span>
+    <h1 style="font-size: 400px;">+</h1>
     <img src="./.github/assets/jest-readme-headline.png" alt="MongoDB" height=200" > 
 </span>
 
