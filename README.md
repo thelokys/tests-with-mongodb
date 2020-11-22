@@ -22,7 +22,7 @@ ou
 gh repo clone thelokys/tests-with-mongodb # cli
 ```
   
-Utilize o seu gerenciador de pacotes preferido e depois instale suas dependecias:
+Utilize o seu gerenciador de pacotes preferido e depois instale suas dependencias:
 
 ```shell
 npm install # NPM
