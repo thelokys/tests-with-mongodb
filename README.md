@@ -36,8 +36,7 @@ yarn install # YARN
  
  > *Para mais detalhes verifique o package.json*
 
-## Depedências
-
+## :package: Depedências
 
 * [<code><img alt="Express" width="30px" src="http://expressjs.com/images/favicon.png" /></code>](http://expressjs.com/) ExpressJS
 * [<code><img alt="Mongodb" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" /></code>](https://mongoosejs.com/) Mongoose
