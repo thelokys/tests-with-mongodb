@@ -24,7 +24,13 @@ ou
 gh repo clone thelokys/tests-with-mongodb # cli
 ```
 
-Utilize o gerenciador [yarn](https://yarnpkg.com/) para iniciar o projeto. Dentro da pasta execute `yarn install` para baixar as dependências.
+Utilize o seu gerenciador de pacotes preferido e depois instale suas dependecias:
+
+```shell
+npm install # NPM
+ou
+yarn install # YARN
+```
 
 ## :rocket: Executando projeto
 
