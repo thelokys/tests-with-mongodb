@@ -36,7 +36,7 @@ yarn install # YARN
 
 
 ## Depedências principais
-express
+<img alt="Mongodb" width="26px" src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" />
 <img alt="Mongodb" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 <img alt="Tests" width="26px" src="https://img.icons8.com/pastel-glyph/64/000000/test-tube--v2.png" />
 <img alt="typescript" width="26px" src="https://img.icons8.com/color/48/000000/typescript.png">
