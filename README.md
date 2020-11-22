@@ -2,7 +2,7 @@
     <img src="./.github/assets/header.png" alt="MongoDB" height="200"/>
 </h1>
 <h4 align="center">
-   Desenvolvimento para automação de testes no Mongodb
+   Molde de automação de testes no Mongodb
 </h4>
 
 ## Sobre
